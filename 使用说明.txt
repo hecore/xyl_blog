@@ -1,0 +1,7 @@
+1.sql文件，
+
+注意sql的自己的Oracle的表空间--->表外面的那一层，用记事本打开TYXYL.sql把 TYXYL替换成自己的表空间就可以直接导入sql了
+2.项目:
+项目可以直接使用myeclipse的 import的方式导入
+3.默认管理员
+admin admin
